@@ -13,7 +13,9 @@ Built using **HTML + Tailwind CSS** and deployed via GitHub Pages:
 
 
 ### 🛍️ Products Section
-<img width="1878" height="831" alt="Screenshot 2025-10-02 205752" src="https://github.com/user-attachments/assets/24ca291a-90b0-455c-8dbe-9b9da01e089f" />
+<img width="1884" height="834" alt="Screenshot 2025-10-02 205743" src="https://github.com/user-attachments/assets/b456296e-c995-42a2-8a79-8eaeef6ba178" />
+<img width="1878" height="831" alt="Screenshot 2025-10-02 205752" src="https://github.com/user-attachments/assets/273611e3-6a29-4112-8ba5-06d1e6bfe415" />
+
 
 ### ⭐ Reviews Section
 <img width="1867" height="386" alt="Screenshot 2025-10-02 205807" src="https://github.com/user-attachments/assets/20656e4e-c338-49ca-b032-a5e27ccdb2b1" />
